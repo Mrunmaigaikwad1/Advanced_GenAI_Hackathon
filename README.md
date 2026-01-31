@@ -110,6 +110,5 @@ Repository Structure
 Advanced_GenAI_Hackathon/
 │
 ├── final_food_delivery.ipynb            
-# Notebook with all answers
-├── README.md                                # Project documentation
+├── README.md                           
 
